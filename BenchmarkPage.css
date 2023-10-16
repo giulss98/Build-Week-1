@@ -1,0 +1,55 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-image: url(./assets/bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.logo img {
+  width: 150px;
+  margin-top: 30px;
+  margin-left: 90px;
+}
+
+.question {
+  font-family: "Montserrat", sans-serif;
+  color: white;
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 80px;
+}
+
+.first-and-second-buttons {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.first-and-second-buttons button {
+  font-family: "Montserrat", sans-serif;
+  background-color:#6d378037;
+  color: white;
+  border-radius: 20px;
+  box-shadow: 0px -1px 0px 1px white;
+  width: 250px;
+  height: 40px;
+}
+
+.third-and-fourth-buttons {
+  text-align: center;
+}
+.third-and-fourth-buttons button {
+  font-family: "Montserrat", sans-serif;
+  background-color: #6d37803a;
+  color: white;
+  border-radius: 20px;
+  box-shadow: 0px -1px 0px 1px white;
+  width: 250px;
+  height: 40px;
+}
+
+
+.single-button {
+    margin-left: 10px;
+    margin-right: 10px;
+}
