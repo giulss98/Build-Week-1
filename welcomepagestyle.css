@@ -1,0 +1,26 @@
+.logo img {
+  width: 15rem;
+  margin-left: 100px;
+  margin-top: 50px;
+}
+body {
+  background-image: url(./assets/bg.jpg);
+}
+.h1 {
+  color: white;
+  font-size: 4rem;
+  margin-left: 100px;
+  font-family: "Roboto", sans-serif;
+}
+.first-main-block {
+  margin-left: 100px;
+  margin-right: 70px;
+}
+.first-main-block h3 {
+  color: rgb(186, 11, 157);
+  font-size: 2rem;
+}
+.first-main-block p {
+  color: white;
+  font-size: 1rem;
+}
